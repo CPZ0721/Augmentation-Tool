@@ -1,0 +1,81 @@
+<annotation>
+    <folder>Augmentation_image</folder>
+    <filename>200001-05-50722.jpg</filename>
+    <path>D:\2021Final_project\github\demo\Augmentation_image\200001-05-50722.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>942</width>
+        <height>626</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>PIN</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>410</xmin>
+            <ymin>75</ymin>
+            <xmax>832</xmax>
+            <ymax>152</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>PIN</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>407</xmin>
+            <ymin>384</ymin>
+            <xmax>834</xmax>
+            <ymax>469</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>wineglass</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>329</xmin>
+            <ymin>375</ymin>
+            <xmax>353</xmax>
+            <ymax>413</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>wineglass</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>325</xmin>
+            <ymin>357</ymin>
+            <xmax>345</xmax>
+            <ymax>409</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>wineglass</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>30</xmin>
+            <ymin>363</ymin>
+            <xmax>52</xmax>
+            <ymax>410</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>wineglass</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>356</xmin>
+            <ymin>291</ymin>
+            <xmax>366</xmax>
+            <ymax>318</ymax>
+        </bndbox>
+    </object>
+</annotation>

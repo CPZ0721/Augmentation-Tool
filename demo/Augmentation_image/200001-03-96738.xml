@@ -1,0 +1,48 @@
+<annotation>
+    <folder>Augmentation_image</folder>
+    <filename>200001-03-96738.jpg</filename>
+    <path>D:\2021Final_project\github\demo\Augmentation_image\200001-03-96738.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>571</width>
+        <height>428</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>PIN</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>273</xmin>
+            <ymin>60</ymin>
+            <xmax>513</xmax>
+            <ymax>104</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>PIN</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>271</xmin>
+            <ymin>236</ymin>
+            <xmax>514</xmax>
+            <ymax>285</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>motorcycle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>103</xmin>
+            <ymin>91</ymin>
+            <xmax>438</xmax>
+            <ymax>378</ymax>
+        </bndbox>
+    </object>
+</annotation>

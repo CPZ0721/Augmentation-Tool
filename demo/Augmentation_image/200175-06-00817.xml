@@ -1,0 +1,48 @@
+<annotation>
+    <folder>Augmentation_image</folder>
+    <filename>200175-06-00817.jpg</filename>
+    <path>D:\2021Final_project\github\demo\Augmentation_image\200175-06-00817.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>849</width>
+        <height>637</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>PAD</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>711</xmin>
+            <ymin>150</ymin>
+            <xmax>824</xmax>
+            <ymax>506</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>PAD</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>408</xmin>
+            <ymin>152</ymin>
+            <xmax>519</xmax>
+            <ymax>506</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>motorcycle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>153</xmin>
+            <ymin>136</ymin>
+            <xmax>652</xmax>
+            <ymax>564</ymax>
+        </bndbox>
+    </object>
+</annotation>

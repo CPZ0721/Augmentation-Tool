@@ -1,0 +1,48 @@
+<annotation>
+    <folder>Augmentation_image</folder>
+    <filename>200000-06-48850.jpg</filename>
+    <path>D:\2021Final_project\github\demo\Augmentation_image\200000-06-48850.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>730</width>
+        <height>548</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>PIN</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>350</xmin>
+            <ymin>111</ymin>
+            <xmax>661</xmax>
+            <ymax>179</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>PIN</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>349</xmin>
+            <ymin>318</ymin>
+            <xmax>660</xmax>
+            <ymax>387</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>kite</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>135</xmin>
+            <ymin>125</ymin>
+            <xmax>487</xmax>
+            <ymax>448</ymax>
+        </bndbox>
+    </object>
+</annotation>

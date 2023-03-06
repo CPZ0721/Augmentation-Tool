@@ -1,0 +1,59 @@
+<annotation>
+    <folder>Augmentation_image</folder>
+    <filename>200180-06-93670.jpg</filename>
+    <path>D:\2021Final_project\github\demo\Augmentation_image\200180-06-93670.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1017</width>
+        <height>678</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>PAD</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>172</xmin>
+            <ymin>57</ymin>
+            <xmax>287</xmax>
+            <ymax>403</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>PAD</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>487</xmin>
+            <ymin>65</ymin>
+            <xmax>600</xmax>
+            <ymax>402</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sheep</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>297</xmin>
+            <ymin>111</ymin>
+            <xmax>966</xmax>
+            <ymax>587</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>sheep</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>84</xmin>
+            <ymin>214</ymin>
+            <xmax>349</xmax>
+            <ymax>622</ymax>
+        </bndbox>
+    </object>
+</annotation>
